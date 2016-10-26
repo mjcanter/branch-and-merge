@@ -1,0 +1,20 @@
+body{
+	width: 800px;
+	height: 800px;
+}
+h1
+{
+	font-size: 30px;
+	font-weight: bold;
+	display: block;
+}
+p{
+	color: blue;
+	display: block;
+}
+img{
+	display: block;
+	height: 50px;
+	width: 200px;
+	margin-bottom: 10px;
+}
